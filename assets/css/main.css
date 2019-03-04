@@ -862,8 +862,8 @@ pre code {
 }
 
 .wrapper {
-  width: 960px;
-  max-width: 90%;
+  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   position: relative;
 }
@@ -1066,7 +1066,7 @@ pre code {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
-  margin: 100px 0 100px;
+  /*margin: 100px 0 100px;*/
   padding: 0;
 }
 
