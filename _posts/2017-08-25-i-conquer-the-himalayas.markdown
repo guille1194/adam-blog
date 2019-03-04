@@ -16,6 +16,8 @@ Ya estan listos para las sesiones de Easter/Spring? porque yo si!!!! 🐰🌸�
 
 solo estará disponible los dias 22 y 23 de Marzo, asi que aparten su espacio.
 
+![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+
 ![easter1]({{site.baseurl}}/assets/img/easter1.jpg)
 
 ![easter2]({{site.baseurl}}/assets/img/easter2.jpg)
